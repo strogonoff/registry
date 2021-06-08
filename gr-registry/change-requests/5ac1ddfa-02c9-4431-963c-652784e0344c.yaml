@@ -38,6 +38,7 @@ proposals:
       sourceCRS:
         classID: crs--geodetic
         itemID: f35d0f6f-a998-4e5e-9ffb-43a96907b803
+    disposition: accepted
 sponsor:
   role: submitter
   gitServerUsername: demouser
@@ -49,5 +50,7 @@ sponsor:
           value: open.source@ribose.com
 id: 5ac1ddfa-02c9-4431-963c-652784e0344c
 timeStarted: 2021-06-08T15:34:38.838Z
-status: pending
+status: final
 timeProposed: 2021-06-08T15:34:38.838Z
+timeDisposed: 2021-06-08T15:34:39.226Z
+disposition: accepted

@@ -13,7 +13,7 @@ data:
       isbn: null
       issn: null
   remarks: ''
-  description: ''
+  description: edited.
   extent:
     name: ''
     'n': 34
@@ -35,4 +35,4 @@ data:
     classID: crs--geodetic
     itemID: f35d0f6f-a998-4e5e-9ffb-43a96907b803
 status: valid
-dateAccepted: 2021-06-08T03:51:39.086Z
+dateAccepted: '2021-06-08T03:51:39.086Z'
